@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Привет, я Максим!
 
-<!--
-**TeXniKsueta/TeXniKsueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент 1 курса магистратуры по направлению **"Мехатроника и робототехника"**
 
-Here are some ideas to get you started:
+🤖 Увлекаюсь разработкой встраиваемых систем:
+- 📄 Пишу техническую документацию
+- 📐 Разрабатываю принципиальные электрические схемы и печатные платы
+- 💻 Программирую микроконтроллеры: ESP32, Arduino, STM32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Мой стек
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+---
+
+### 📌 Что я делаю
+
+- 🔭 Разрабатываю встраиваемые системы под задачи робототехники
+- 🌱 Постоянно изучаю новое в области электроники и программирования
+- 📫 Связаться со мной: [Максим Черных](https://vk.com/fa1r0ff), [Email](mailto:chernykh_0970@mail.ru)  
+
+---
+
+⭐ **В свободное время** собираю схемы, паяю платы и пишу код для своих проектов!
